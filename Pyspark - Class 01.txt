@@ -1,0 +1,20 @@
+Hadoop:
+Distributed storage
+Distributed computing 
+
+HDFS -> YARN(process manager) -> MapReduce(distributed runable app)
+
+
+- spark is faster than MapReduce
+- It can interact with anything : cassandra, streaming server , kafka, ML, Relational and noSQL DB
+ 
+
+
+* DAG - directed acyclic grap
+
+RDD - Resilient Dstributed dataset 
+like pointer in c
+
+
+concepts: Demand Paging
+Galvin book , Memory 
