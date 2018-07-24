@@ -17,4 +17,8 @@ like pointer in c
 
 
 concepts: Demand Paging
-Galvin book , Memory 
+Galvin book , Memory
+
+
+RDD
+DAG

@@ -1,0 +1,23 @@
+github: zekelabs/pyspak 
+1. Module 01 RDD
+parition is spark term
+block is Hadoop term
+
+
+1. RDD
+
+*Tasks
+*Stages
+
+
+
+checkpoint  (making a copy after excuting rdd tasks)
+
+repartition
+getpartions
+coalesce
+
+
+-rdd.aggregate((0,0), lambda X, Y : (x[0] + Y, x[1]+1 ))
+-cache() and unpersist()
+merge sort
